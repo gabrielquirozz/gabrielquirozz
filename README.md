@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
-</div>
-### Hi there 👋 I am Gabriel Quiroz
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
+  <h1>Hi there 👋 I am Gabriel Quiroz</h1>
+</div> 
 
 <!--
 **gabrielquirozz/gabrielquirozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="Alt text" title="Optional title">
 ### Hi there 👋
 
 <!--

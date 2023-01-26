@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
-  <h1>Hi there 👋 I am Gabriel Quiroz</h1>
+  <h1>Hi there 👋 I'm Gabriel Quiroz</h1>
 </div> 
 
 <!--

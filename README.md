@@ -7,13 +7,13 @@
 
 ### 👨‍💻 About Me :
 
-- 📝 I regularly upload videos on [https://www.youtube.com/youdevs](https://www.youtube.com/youdevs)
+- 📝 Computer science engineering student
 
-- 💬 Ask me about **PHP, Laravel, Python, Javascript**
+- 💬 Deep knowledge about **Python, Javascript, React, Java, Node, SQL**
 
-- 📫 How to reach me **carlos.develops@gmail.com**
+- 📫 How to reach me **gabrielquirozr@gmail.com**
 
-- 🌱 I’m currently learning **React.js, Blockchain, Web3 and Solidity**
+- 🌱 I’m currently in the last year of my degree
 
 - 🌐 Website [youdevs.com](youdevs.com)
 

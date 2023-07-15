@@ -1,7 +1,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
   <h1>Hi there 👋 I'm Gabriel Quiroz</h1>
-  <h3 align="center">Computer science engineering student with more than two years of work experience. I have developed web pages for many companies. I have knowledge in banking logic and ERPs operation. I am a very proactive person and I love learning about everything. I have deep knowledge in Python, HTML, CSS, SQL, JavaScript and React. I am currently in the last year of my degree.</h3>
+  <h3 align="center">Computer Science Engineering student with over 2 years of
+professional experience as a developer. Extensive knowledge in
+software development, system architecture, and mobile application
+creation.</h3>
 </div> 
 ---
 

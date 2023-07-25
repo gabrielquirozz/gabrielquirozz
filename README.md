@@ -43,4 +43,4 @@ creation.</h3>
 ---
 
 ### 📊 My Stats :
-
+[![Anurag's GitHub stats](https://github-readme-stats-one-nu-59.vercel.app/api?username=gabrielquirozz)](https://github.com/gabrielquirozz/github-readme-stats)

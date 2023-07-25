@@ -17,7 +17,7 @@ creation.</h3>
 - 📫 How to reach me **gabrielquirozr@gmail.com**
 
 - 🌱 I’m currently in the last year of my degree
-- 
+  
 <!---
 - 🌐 Website [https://gabrielquirozz.github.io/Portafolio/](https://gabrielquirozz.github.io/Portafolio/)
 -->

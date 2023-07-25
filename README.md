@@ -44,3 +44,4 @@ creation.</h3>
 
 ### 📊 My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats-one-nu-59.vercel.app/api?username=gabrielquirozz&show_icons=true&theme=radical&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielquirozz&show_icons=true&theme=radical)

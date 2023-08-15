@@ -12,15 +12,14 @@ creation.</h3>
 
 - 📝 Computer science engineering student
 
-- 💬 Deep knowledge about **Python, Javascript, React, Java, Node, SQL**
+- 💬 Deep knowledge about **Python, Javascript, React, Java, Node, SQL, Typescript, Angular**
 
 - 📫 How to reach me **gabrielquirozr@gmail.com**
 
 - 🌱 I’m currently in the last year of my degree
   
-<!---
-- 🌐 Website [https://gabrielquirozz.github.io/Portafolio/](https://gabrielquirozz.github.io/Portafolio/)
--->
+- 🌐 Website [https://gabrielquiroz.vercel.app/](https://gabrielquiroz.vercel.app/)
+
 
 
 <div align="left">

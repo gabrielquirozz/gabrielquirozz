@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
   <h1>Hi there 👋 I'm Gabriel Quiroz</h1>
-  <h3 align="left">Hey there! I'm a Computer Science Engineering enthusiast who's been in the professional development for over 2 years. My journey has taken me through the exciting realms of software development, system architecture, and crafting awesome mobile applications.
-
-When it comes to frontend development, I'm your go-to person, especially with React. Creating eye-catching user interfaces and ensuring smooth user experiences is my jam, and I absolutely love doing it! And on the backend, I like to play around with technologies like Express and Python to build strong and efficient systems.
-
-So, you could say I'm not just a developer, but a passionate tech explorer on a mission to make things look good and work even better! 🚀</h3>
+  <h3 align="center">Computer Science Engineering student with over 2 years of
+professional experience as a developer. Extensive knowledge in
+software development, system architecture, and mobile application
+creation.
+</h3>
 </div> 
 ---
 

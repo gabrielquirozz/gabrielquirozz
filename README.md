@@ -11,13 +11,11 @@ creation.
 
 ### 👨‍💻 About Me :
 
-- 📝 Computer science engineering student
+- 📝 Computer Science Engineer
 
 - 💬 Deep knowledge about **Python, Javascript, React, Java, Node, SQL, Typescript, Angular**
 
 - 📫 How to reach me **gabrielquirozr@gmail.com**
-
-- 🌱 I’m currently in the last year of my degree
   
 - 🌐 Website [https://gabrielquiroz.vercel.app/](https://gabrielquiroz.vercel.app/)
 

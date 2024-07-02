@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
   <h1>Hi there 👋 I'm Gabriel Quiroz</h1>
-  <h3 align="center">Computer Science Engineering student with over 2 years of
+  <h3 align="center">Computer Science Engineering student with over 3 years of
 professional experience as a developer. Extensive knowledge in
 software development, system architecture, and mobile application
 creation.
